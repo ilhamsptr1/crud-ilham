@@ -154,7 +154,7 @@ export default function App() {
                 User Management
               </h1>
               <p className="text-gray-600 mt-2">
-                Kelola data pengguna dengan Firebase Firestore
+                Kelola data pengguna 
               </p>
             </div>
             
