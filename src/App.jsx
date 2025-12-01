@@ -457,7 +457,7 @@ export default function App() {
 
         {/* Footer */}
         <footer className="mt-8 text-center text-gray-500 text-sm">
-          <p>© 2024 User Management System. Dibuat dengan React & Firebase</p>
+          <p>© 2024 User Management System. Dibuat Oleh Ilham</p>
         </footer>
       </div>
     </div>
