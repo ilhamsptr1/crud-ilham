@@ -732,10 +732,10 @@ export default function App() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-center md:text-left">
               <p className="text-gray-700 font-medium">
-                © 2024 User Management System
+                © Ilham Saputra
               </p>
               <p className="text-gray-500 text-sm mt-1">
-                Dibuat dengan ❤️ oleh Ilham
+                Dibuat oleh Ilham
               </p>
             </div>
             <div className="flex items-center gap-4">
